@@ -1,0 +1,13 @@
+# Виртуальное окружение
+venv/
+.venv/
+
+# Кеш Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+
+.db/.sqlite3
